@@ -21,21 +21,13 @@
     padding: 20px;
     width: auto;  
 }
-.sidecontent{
-    flex: 1;
-    margin: 15px;
-    padding: 10px;
-    border: 2px solid #ccc;
-    width: 150px;
-    background-image: linear-gradient(135deg, #D9D8D7, #EDECEB);
-}
-.boxlightcoffee{
+.boxlight{
     background-image: linear-gradient(135deg, #F2CA84, #CA914A);
 }
-.boxmiddlecoffee{
+.boxmiddle{
     background-image: linear-gradient(135deg, #BE825E, #F2CA84);
 }
-.boxdarkcoffee{
+.boxdark{
     background-image: linear-gradient(135deg, #CA914A, #BE825E);
 }
 p{
